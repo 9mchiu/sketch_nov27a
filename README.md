@@ -1,1 +1,2 @@
-# sketch_nov27a
+-- sketch_nov27a  
+-- 頻率0.1, 1, 2, 3, 4, 5 Hz
